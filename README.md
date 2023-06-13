@@ -9,3 +9,5 @@ THEN the text for that event is saved in local storage.WHEN I refresh the page, 
 
 
 file:///Users/christianshelton/Desktop/schedule/index.html
+
+
